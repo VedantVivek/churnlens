@@ -4,7 +4,7 @@ A platform that identifies where and why users drop off during onboarding, visua
 signup-to-retention funnel, and uses AI-assisted insights to suggest operational next steps.
 
 ## Live Demo
-[(Link will be added after deployment)](https://churnlens-mzc5.vercel.app/)
+[(Link)](https://churnlens-mzc5.vercel.app/)
 
 ## The Problem
 Most digital products lose a large share of users between signup and meaningful first use.
