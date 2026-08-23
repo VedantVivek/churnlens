@@ -71,7 +71,7 @@ export default function Landing() {
           <p className="text-sm mt-1">
             <a href="mailto:vedantvivek496@gmail.com" className="text-indigo-600 underline">Contact me</a>
             {' · '}
-            <a href="https://github.com/VedantVivek" className="text-indigo-600 underline">GitHub Repository</a>
+            <a href="https://github.com/VedantVivek/churnlens.git" className="text-indigo-600 underline">GitHub Repository</a>
           </p>
         </div>
       </div>
